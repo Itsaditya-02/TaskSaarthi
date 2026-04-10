@@ -1,5 +1,5 @@
 # TaskSaarthi
-# Task Manager 🚀
+
 
 A modern full-stack task management web application built using the MERN stack that transforms productivity into a gamified experience. It includes features like streak tracking, progress visualization, and interactive workflows to keep users motivated and consistent.
 
